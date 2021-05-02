@@ -1,4 +1,4 @@
-# EmbeddedProgramming_Chess
+# InMyMajor6_EmbeddedProgrammingChess
 라즈베리파이(Raspberry Pi)를 이용하는 체스게임(Qt로 UI를 구현)
 -----
 
